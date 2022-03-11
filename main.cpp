@@ -4,7 +4,7 @@
 using namespace std;
 
 
-const int N = 4666;
+const int N = 12345;
 
 double a[N],b[N][N],col_sum[N];
 
